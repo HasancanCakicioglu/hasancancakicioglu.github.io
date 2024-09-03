@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.remindup.app.remindup",
+      "sha256_cert_fingerprints":
+      ["BA:85:89:F2:D0:DD:7E:A6:7C:AB:99:8F:EB:E3:69:D6:F7:E8:82:0D:AF:7E:BD:1E:78:DE:CC:17:03:BA:57:22"]
+    }
+  }]
